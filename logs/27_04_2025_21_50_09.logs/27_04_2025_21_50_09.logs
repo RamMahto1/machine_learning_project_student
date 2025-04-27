@@ -1,0 +1,4 @@
+[ 2025-04-27 21:50:28,622 ] 23 root - INFO - entered data ingestion config
+[ 2025-04-27 21:50:28,632 ] 27 root - INFO - read data as data frame
+[ 2025-04-27 21:50:28,641 ] 33 root - INFO - split the data into train test split
+[ 2025-04-27 21:50:28,656 ] 39 root - INFO - data ingestion has completed
